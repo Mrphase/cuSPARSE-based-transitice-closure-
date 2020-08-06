@@ -1,0 +1,27 @@
+Input: ./exe beg csr weight
+Normal 19!!! Expected edge count: 49122
+49122 49122
+Weight file !=NULL
+Graph load (success): 16384 verts, 49122 edges 0.00103307 second(s)
+
+New Start
+16384 49122
+nnzC 121558
+nnz= 121558 0 round
+nnzC 231789
+nnz= 231789 1 round
+nnzC 438580
+nnz= 438580 2 round
+nnzC 777143
+nnz= 777143 3 round
+nnzC 1197000
+nnz= 1197000 4 round
+nnzC 1441084
+nnz= 1441084 5 round
+nnzC 1599366
+nnz= 1599366 6 round
+nnzC 1599378
+nnz= 1599378 7 round
+nnzC 1599378
+nnz= 1599378 8 round
+finish after 8 roundCUDA spent： 6155.3
