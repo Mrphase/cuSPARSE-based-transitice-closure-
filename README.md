@@ -1,6 +1,7 @@
 # cuSPARSE-based-transitice-closure
 
 ## prepare data
+![image](https://github.com/Mrphase/cuSPARSE-based-transitice-closure-/blob/master/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-04-23%20010124.JPG)
 ```
 ./text_to_bin.bin ./toy_graph/mc2depi.mtx 1 0
 ```
